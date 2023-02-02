@@ -1,0 +1,19 @@
+{
+  "name" : "#{name}",
+  "email" : "#{email}",
+  "password" : "#{password}",
+  "title" : "MR",
+  "birth_date" : "#{day}",
+  "birth_month" : "#{month}",
+  "birth_year" : "#{year}",
+  "firstname" : "#{firstName}",
+  "lastname" : "#{lastName}",
+  "company" : "test",
+  "address1" : "test",
+  "address2" : "test",
+  "country" : "test",
+  "zipcode" : "123123",
+  "state" : "Georgia",
+  "city" : "Tbilisi",
+  "mobile_number" : "+7777777777"
+}
